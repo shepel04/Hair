@@ -1,0 +1,18 @@
+{
+    "1": {
+        "item_name": "Shampoo",
+        "quantity": 20
+    },
+    "2": {
+        "item_name": "Conditioner",
+        "quantity": 15
+    },
+    "3": {
+        "item_name": "Scissors",
+        "quantity": 10
+    },
+    "4": {
+        "item_name": "Hair Gel",
+        "quantity": 25
+    }
+}
